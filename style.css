@@ -1,25 +1,25 @@
 :root{
-    --cor-de-fundo:#a7dbcd;
-    --verde:#a7dbcd;
+    --cor-de-fundo:#d17e3a;
+    --verde:#7c7a5a;
     --branco: #FFFFFF;
-    --botao-ativo: #bfc2da;
-    --botao-inativo: #bfc2da;
-    --texto-de-fundo:#bfc2da;
+    --botao-ativo: #dda68d;
+    --botao-inativo: #5862ac;
+    --texto-de-fundo:#000d6e;
 }
 
 
 body{
-    background-color: rgb(108, 146, 172);
-    color: rgb(199, 198, 132);
+    background-color: rgb(201, 144, 144);
+    color: rgba(185, 22, 10, 0.815);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 55px;
     text-align: center;
 }
 .botão{
-    background-color: rgb(150, 155, 189);
+    background-color: #cfa27d;
     font-size: 30px;
     border-radius: 10px;
-    color: rgb(180, 216, 211);
+    color: rgb(255, 255, 255);
     margin: 20px;
     padding: 20px;
 }
@@ -27,7 +27,11 @@ body{
 .conteudo-principal{
     display: flex;
     justify-content: center;
-    width: 20px;
+    width: 10px;
     align-items: center;
     margin: 0 auto;
+}
+.imagens1{
+    width: 15%;
+    height: 275px;
 }
