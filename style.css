@@ -12,16 +12,16 @@ body{
     background-color: rgb(201, 144, 144);
     color: rgba(185, 22, 10, 0.815);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 55px;
+    font-size: 40px;
     text-align: center;
 }
 .botão{
     background-color: #cfa27d;
-    font-size: 30px;
+    font-size: 25px;
     border-radius: 10px;
     color: rgb(255, 255, 255);
-    margin: 20px;
-    padding: 20px;
+    margin: 10px;
+    padding: 10px;
 }
 
 .conteudo-principal{
@@ -33,5 +33,11 @@ body{
 }
 .imagens1{
     width: 15%;
-    height: 275px;
+    height: 250px;
+}
+.meta-organizar{
+    display: inline;
+}
+.meta-organizar2{
+    display: inline;
 }
