@@ -12,32 +12,22 @@ body{
     background-color: rgb(201, 144, 144);
     color: rgba(185, 22, 10, 0.815);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
+    font-size: 55px;
     text-align: center;
 }
 .botão{
     background-color: #cfa27d;
-    font-size: 25px;
+    font-size: 30px;
     border-radius: 10px;
     color: rgb(255, 255, 255);
-    margin: 10px;
-    padding: 10px;
+    margin: 20px;
+    padding: 20px;
 }
 
 .conteudo-principal{
     display: flex;
     justify-content: center;
-    width: 10px;
+    width: 20px;
     align-items: center;
     margin: 0 auto;
-}
-.imagens1{
-    width: 15%;
-    height: 250px;
-}
-.meta-organizar{
-    display: inline;
-}
-.meta-organizar2{
-    display: inline;
 }
