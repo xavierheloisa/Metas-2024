@@ -1,25 +1,25 @@
 :root{
-    --cor-de-fundo:#d17e3a;
-    --verde:#7c7a5a;
-    --branco: #FFFFFF;
-    --botao-ativo: #dda68d;
-    --botao-inativo: #5862ac;
-    --texto-de-fundo:#000d6e;
+    --cor-de-fundo:#e98787;
+    --verde:#d1cd8e;
+    --branco: #504b4b;
+    --botao-ativo: #a5a1d3;
+    --botao-inativo: #a5a1d3;
+    --texto-de-fundo:#504b4b;
 }
 
 
 body{
-    background-color: rgb(201, 144, 144);
-    color: rgba(185, 22, 10, 0.815);
+    background-color: rgb(151, 165, 147);
+    color: rgb(140, 218, 212);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 55px;
+    font-size: 40px;
     text-align: center;
 }
 .botão{
-    background-color: #cfa27d;
+    background-color: rgb(97, 9, 9);
     font-size: 30px;
     border-radius: 10px;
-    color: rgb(255, 255, 255);
+    color: rgb(192, 201, 151);
     margin: 20px;
     padding: 20px;
 }
@@ -27,7 +27,15 @@ body{
 .conteudo-principal{
     display: flex;
     justify-content: center;
-    width: 20px;
+    width: 10px;
     align-items: center;
     margin: 0 auto;
+}
+.imagem1{
+    width: 10%;
+    height: 5%;
+}
+.meta{
+  display: inline;
+  padding: 20px;
 }
